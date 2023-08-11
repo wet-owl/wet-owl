@@ -4,6 +4,6 @@
 </div>
 
 <div align = "center">
-  <h2 style = "display: inline-block;"> Languases I know: </h2>
-  <img src = "https://cdn.simpleicons.org/lua/lightblue" alt = "Lua" />
+  <h2 style = "display: inline-block;"> Languages I know: </h2>
+  <img height = "100" width = "100" src = "https://cdn.simpleicons.org/lua/white" alt = "Lua" />
 </div>
